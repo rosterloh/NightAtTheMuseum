@@ -1,0 +1,22 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Pp]ackages/
+
+
+# Visual Studio / MonoDevelop generated
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+
+# Daydream Demos:
+Assets/GoogleVR/Demos
+Assets/GoogleVR/Demos.meta
+
+# OS generated
+.DS_Store
