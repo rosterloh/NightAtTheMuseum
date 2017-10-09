@@ -6,5 +6,5 @@ This demo is built for [Cardboard](https://developers.google.com/vr/unity/get-st
 
 # Resources
 
-* [Google VR for Unity SDK](https://github.com/googlevr/gvr-unity-sdk)
-* [Unity](https://unity3d.com)
+* [Google VR for Unity SDK](https://github.com/googlevr/gvr-unity-sdk) Version v1.100.0
+* [Unity](https://unity3d.com) Version 2017.3.0b3
