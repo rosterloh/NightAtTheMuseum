@@ -103,7 +103,7 @@ public class MuseumInputManager : MonoBehaviour {
 #endif  // !RUNNING_ON_ANDROID_DEVICE
     SetVRInputMechanism();
 
-    showMessage("Welcome to the museum! Have a look around. Click on one of the pillars to move to that station.");
+    showMessage("Welcome to the museum of VR Input Controllers!\n\nHave a look around. Click on one of the pillars to move to that station and find out more information.");
   }
 
   // Runtime switching enabled only in-editor.
